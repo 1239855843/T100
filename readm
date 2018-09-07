@@ -1,3 +1,4 @@
 git init 创建版本库
 git add 提交到缓存区
 git commit -m "Name" 提交到版本库中
+add redam --
